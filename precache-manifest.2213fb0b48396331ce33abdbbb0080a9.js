@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b8e1dc2d468bfe720df6",
+    "revision": "043d1816065cc663f9f4",
     "url": "/tfjs-yolov5-example/static/css/main.a94688d0.chunk.css"
   },
   {
-    "revision": "b8e1dc2d468bfe720df6",
-    "url": "/tfjs-yolov5-example/static/js/main.b8e1dc2d.chunk.js"
+    "revision": "043d1816065cc663f9f4",
+    "url": "/tfjs-yolov5-example/static/js/main.043d1816.chunk.js"
   },
   {
     "revision": "8af9719caaa5636081f6",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/tfjs-yolov5-example/static/js/runtime~main.d686f760.js"
   },
   {
-    "revision": "4496d55b09ac7688bfb7276edcabfe10",
+    "revision": "5b563b8af45e06671625426dbdbd6a46",
     "url": "/tfjs-yolov5-example/index.html"
   }
 ];
